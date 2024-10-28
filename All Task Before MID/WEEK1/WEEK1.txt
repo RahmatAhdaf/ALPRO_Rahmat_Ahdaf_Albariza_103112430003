@@ -1,0 +1,7 @@
+1. Mulai
+2. Siapkan peralatan yang dibutuhkan, seperti bola dan timbangan
+3. kita akan menggunakan metode kamu lebih berat kamu menetap
+4. pertama-tama timbang bola A dan bola B, ternyata bola B lebih berat dari bola A
+5. Timbang bola B dan bola C, ternyata bola C lebih berat dari bola B
+6. Timbang bola C dengan bola D, ternyata bola D lebih berat dari bola C
+7. Selesai
